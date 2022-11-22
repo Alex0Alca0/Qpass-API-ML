@@ -5,4 +5,4 @@ pydantic
 pickle5
 scikit-learn
 numpy
-xboost==0.90
+xgboost==0.90
